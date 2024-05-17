@@ -1,6 +1,6 @@
 <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-I'm [Tirth Patel], I
+I'm [Tirth Patel]
 
 ---
 
